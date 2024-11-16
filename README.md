@@ -3,7 +3,6 @@
 
 <h3>About Me</h3>
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java</strong>.</p>
-<p align="left">- 🌱 I’m interested in <strong>Web Development and Cloud Computing.</strong></p>
 <p align="left">- 🔭 I also ✨like✨ <strong>movies, anime, art, and gaming</strong>.</p>
 <p align="left">- 👩‍💻 I aim to be a <strong>Full Stack Developer</strong> while also designing games for enjoyment and creativity.</p>
 
