@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
+<img align="right" alt="also me" width="300" height="200" src="https://img1.picmix.com/output/stamp/normal/4/7/0/4/2184074_d5e52.gif">
 
 # 👩‍💻 About Me:
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java</strong>.</p>
@@ -11,7 +12,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false)<br/> <img align="right" alt="also me" width="300" height="200" src="https://img1.picmix.com/output/stamp/normal/4/7/0/4/2184074_d5e52.gif">
+![](https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false)<br/> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
