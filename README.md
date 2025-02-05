@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
-<img align="right" alt="also me" width="350" height="200" src="https://img1.picmix.com/output/stamp/normal/4/7/0/4/2184074_d5e52.gif">
 
 # 👩‍💻 About Me:
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java</strong>.</p>
