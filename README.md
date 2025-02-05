@@ -13,6 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false)<br/> 
 
+#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/specialgrade/specialgrade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/specialgrade/specialgrade/output/github-snake.svg" />
