@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
 <img align="right" alt="also me" width="400" height="300" src="https://img1.picmix.com/output/stamp/normal/4/7/0/4/2184074_d5e52.gif">
 
-<h3>About Me</h3>
+<h3>About Me:</h3>
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java</strong>.</p>
 <p align="left">- 🔭 I also ✨like✨ <strong>movies, anime, art, and gaming</strong>.</p>
 <p align="left">- 👩‍💻 I aim to be a <strong>Full Stack Developer or Data Warehouse Engineer</strong>.</p>
@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specialgrade&show_icons=true&theme=dracula) 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/specialgrade/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/specialgrade/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/specialgrade/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
