@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
 
 # 👩‍💻 About Me:
-<p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java</strong>.</p>
+<p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java and SQL</strong>.</p>
 <p align="left">- 🔭 I also ✨like✨ <strong>movies, anime, art, and gaming</strong>.</p>
 <p align="left">- 👩‍💻 I aim to be a <strong>Full Stack Developer or Data Warehouse Engineer</strong>.</p>
 
@@ -13,7 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false)<br/> 
 
-#
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/specialgrade/specialgrade/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/specialgrade/specialgrade/output/github-snake.svg" />
