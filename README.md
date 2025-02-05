@@ -11,7 +11,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=specialgrade&show_icons=true&theme=dracula) 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false)<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
