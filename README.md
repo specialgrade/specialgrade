@@ -2,7 +2,7 @@
 
 # 👩‍💻 About Me:
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Java and SQL</strong>.</p>
-<p align="left">- 🔭 I also ✨like✨ <strong>movies, anime, art, and gaming</strong>.</p>
+<p align="left">- 🔭 I also ✨like✨ <strong>movies, anime, art, dancing, and gaming</strong>.</p>
 <p align="left">- 👩‍💻 I aim to be a <strong>Full Stack Developer or Data Warehouse Engineer</strong>.</p>
 
 # ⚙️ Languages and Tools:
