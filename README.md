@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
-<h3 align="center">🌸 IT Student | Frontend Developer | Aspiring Full Stack & Data Engineer 🌸</h3>
-
----
+<h3 align="center">🌸 IT Student | Aspiring Full Stack & Data Engineer 🌸</h3>
 
 ## 👩‍💻 About Me  
-- 🌱 Currently learning **SQL** and expanding my backend skills.  
-- 🎨 I enjoy **movies, anime, art, dancing, and gaming**.  
-- 💡 I aim to become a **Full Stack Developer** or **Data Warehouse Engineer**.  
-
----
+- 🎓 IT student with experience in **frontend development & UI/UX design**  
+- 🖌 Skilled in **Figma, HTML, CSS, JavaScript**, and creating clean, user-friendly designs  
+- 🎮 Interested in building **FPS x Storytelling games** and **casual cooking games**  
+- 🌱 Currently learning **digital marketing** while advancing my web development skills  
+- 📚 Believes in combining **creativity + technology** to make impactful projects   
 
 ## ⚙️ Languages and Tools  
 <p align="center">
@@ -25,17 +23,11 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=specialgrade&theme=dracula&hide_border=false" alt="streak stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=specialgrade&layout=compact&theme=dracula" alt="top langs"/>
-</p>
-
----
-
-## 🐍 Fun Animation  
+</p>  
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/specialgrade/specialgrade/output/github-snake-dark.svg" />
@@ -44,11 +36,9 @@
   </picture>
 </p>
 
----
-
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-aly.mariedelacruz.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alymariedelacruz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/specialgrade"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
