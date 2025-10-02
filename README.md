@@ -4,7 +4,6 @@
 ## 👩‍💻 About Me  
 - 🎓 IT student with experience in **frontend development & UI/UX design**  
 - 🖌 Skilled in **Figma, HTML, CSS, JavaScript**, and creating clean, user-friendly designs  
-- 🎮 Interested in building **FPS x Storytelling games** and **casual cooking games**  
 - 🌱 Currently learning **digital marketing** while advancing my web development skills  
 - 📚 Believes in combining **creativity + technology** to make impactful projects   
 
