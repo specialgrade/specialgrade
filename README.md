@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aly!</h1>
-<h3 align="center">🌸 IT Student | Aspiring Full Stack & Data Engineer 🌸</h3>
+<h3 align="center">🌸 IT Student | Aspiring Full Stack Developer 🌸</h3>
 
 ## 👩‍💻 About Me  
 - 🎓 IT student with experience in **frontend development & UI/UX design**  
 - 🖌 Skilled in **Figma, HTML, CSS, JavaScript**, and creating clean, user-friendly designs  
-- 🌱 Currently learning **digital marketing** while advancing my web development skills  
+- 🌱 Currently advancing my web development skills  
 - 📚 Believes in combining **creativity + technology** to make impactful projects   
 
 ## 🔗 Connect with Me  
